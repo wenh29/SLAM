@@ -1,8 +1,2 @@
 # SLAM
-Just a teamwork
-Hellow world!
-
-
-
-
-
+Just a t
